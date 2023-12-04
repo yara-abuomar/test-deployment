@@ -1,0 +1,10 @@
+.style{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.style1{
+    display: flex;
+    justify-content: space-between;
+    
+}
